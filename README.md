@@ -19,3 +19,7 @@ The tablets might not be that good as working desktops, but at least theres a pr
 
 ## Inspiration
 * Open Surface RT Home<br />https://openrt.gitbook.io/open-surfacert/get-started/windows-10
+* Linux on Surface RT - Make the Kernel boot<br />https://www.mickaelwalter.fr/linux-on-surface-rt/
+* Linux on Surface RT - (nearly) full featured OS<br />https://www.mickaelwalter.fr/linux-on-surface-rt-nearly-full-featured-os/
+* Surface RT-specifikationer<br />https://support.microsoft.com/da-dk/surface/surface-rt-specifikationer-dcc757dc-b4ab-c33f-d3b3-352cf5d2e637
+* Upgrading a Surface RT to unsupported Windows 10<br />https://www.youtube.com/watch?v=4Dio73_-Y5U
