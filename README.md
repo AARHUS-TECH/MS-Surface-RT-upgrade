@@ -18,3 +18,4 @@ The tablets might not be that good as working desktops, but at least theres a pr
 * Security software
 
 ## Inspiration
+* Open Surface RT Home<br />https://openrt.gitbook.io/open-surfacert/get-started/windows-10
